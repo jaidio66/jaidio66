@@ -11,7 +11,7 @@
 - 🛠️ Turning messy data into useful intelligence  
 - 🤝 Work-friendly, team-first, and always curious
 
-I believe good engineering should be:
+I believe good work should be:
 - **Readable**
 - **Reliable**
 - **A little bit fun**
@@ -35,12 +35,14 @@ BMO energy I try to bring to work:
 - 🧠 LLMs, RAG, embeddings, rerankers
 - 🗄️ Vector DBs & PostgreSQL
 - ☁️ Backend systems & tooling
-- 📦 Git, Docker, CI/CD
+- 📦 Git & Docker
 
 ---
 
 ## 😄 Developer Humor (Safe for Work)
-
+- If its works dont touch it
+- Light attracts bugs
+  
 **Expectation vs Reality**
 
 **AI be like:**
@@ -50,9 +52,9 @@ BMO energy I try to bring to work:
 
 ## 📌 Current Focus
 
-- 🔍 Better chunking strategies for complex documents
-- 🧠 Making AI systems more reliable & explainable
-- 🧼 Clean code, clean commits, clean repos
+- 🔍 Better chunking strategies for complex documents (Done)
+- 🧠 Making AI systems more reliable & explainable (RAG)
+- 🧼 Clean code, clean commits, clean repos (Sweet)
 
 ---
 
