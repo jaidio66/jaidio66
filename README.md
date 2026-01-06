@@ -50,10 +50,7 @@ BMO energy I try to bring to work:
 **Expectation vs Reality**
 
 **AI be like:**
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/K4j7V1p5fpsAAAAC/happy-birthday.gif](https://media1.tenor.com/m/ASZt0lLt2WAAAAAd/sink.gif" width="220" alt="let that sink in"/>
-</p>
+- Let that sink in 🥴
 
 ---
 
