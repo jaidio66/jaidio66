@@ -52,7 +52,7 @@ BMO energy I try to bring to work:
 **AI be like:**
 
 <p align="center">
-  ![let that sink in](https://media1.tenor.com/m/K4j7V1p5fpsAAAAC/happy-birthday.gif)
+  <img src="https://media1.tenor.com/m/K4j7V1p5fpsAAAAC/happy-birthday.gif" width="220" alt="let that sink in"/>
 </p>
 
 ---
