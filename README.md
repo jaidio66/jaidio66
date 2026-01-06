@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Jaid!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="220" alt="BMO from Adventure Time"/>
+</p>
+
 > *"BMO always bounces back!"* 🤖💙
 
 ---
